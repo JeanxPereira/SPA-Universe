@@ -1,1 +1,1 @@
-"# SPA-Universe" 
+# SPA-Universe
